@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The VVelsh physitian, her new way to cure all kind of disease in her churches and common-wealths. 1. Her undertakes to cure perfectly all diseases in her she-cousens. 2. Her will undertake to make all omens that are barrons be as pig as her can tumble in two or three nights. 3. Her professes to restore her cosens maiden-heads, and virginities in a small space, and with much facilities. ...  /</title>
+            <title>Welsh physitian, her new way to cure all kind of disease in her churches and common-wealths.</title>
+            <author>Morgan, Shinkin ap.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96204</idno>
+            <idno type="STC">Wing W1343</idno>
+            <idno type="STC">Thomason E375_14</idno>
+            <idno type="STC">ESTC R201348</idno>
+            <idno type="EEBO-CITATION">99861872</idno>
+            <idno type="PROQUEST">99861872</idno>
+            <idno type="VID">114017</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96204)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114017)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E375[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The VVelsh physitian, her new way to cure all kind of disease in her churches and common-wealths. 1. Her undertakes to cure perfectly all diseases in her she-cousens. 2. Her will undertake to make all omens that are barrons be as pig as her can tumble in two or three nights. 3. Her professes to restore her cosens maiden-heads, and virginities in a small space, and with much facilities. ...  /</title>
+                  <title>Welsh physitian, her new way to cure all kind of disease in her churches and common-wealths.</title>
+                  <author>Morgan, Shinkin ap.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed for the good of her countrey-men, this present year, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Shinkin ap Morgan is a pseudonym.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "feb: 11th 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Welsh --  Early works to 1800.</term>
+               <term>Wales --  Foreign public opinion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114017:1" rendition="simple:additions"/>
+            <p>The Welſh Phyſitian, HER New way to cure all kind of Diſeaſes in her Churches and Common-Wealths.</p>
+            <figure/>
+            <list>
+               <item>1. Her undertakes to cure per<g ref="char:EOLhyphen"/>fectly all Diſeaſes in her ſhe-Cou<g ref="char:EOLhyphen"/>ſens.</item>
+               <item>2. Her will undertake to make all omens that are barrons be as pig as her can tumble in two or three nights.</item>
+               <item>3. Her profeſſes to reſtore her Coſens Maiden-heads, and Virgi<g ref="char:EOLhyphen"/>nities in a ſmall ſpace, and with much facilities.</item>
+               <item>4. Her will cure all the Agues that are in her States and her King<g ref="char:EOLhyphen"/>domes, ariſing from her factious and turbulent humours.</item>
+               <item>5. Her will ſet all the bones that were broken at <hi>Keinton</hi> a<g ref="char:EOLhyphen"/>mong her Couſens though it were in her necks.</item>
+               <item>6. Her will purge the ſtomack of her Church of all her Errours.</item>
+            </list>
+            <p>Whereas it is caknown that her Engliſh Doctors kill not above three quarters of her Patients that come under her hands, her will undertake to kill them all, and make her all live agen in an inſtants.</p>
+            <p>By <hi>Shinkin</hi> ap <hi>Morgan,</hi> Profeſſor of her Medicall Arts and Sciences.</p>
+            <p>Printed for the good of her Countrey-men, this preſent year, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114017:2"/>
+            <pb n="1" facs="tcp:114017:2"/>
+            <head>The Welſh-Phyſitian. Her new way to cure all Diſeaſes in Church and Common-wealth.</head>
+            <p>HEr underſtanding that all her ſhee-cozens in generall are ſubject to divers qualmes and diſeaſes, her having been a long time converſant with her ſhee-cozens po<g ref="char:EOLhyphen"/>dies, finds by her experiences and her skills, that the generalleſt diſeaſe all her cozens are ſubject to, is the glimme<g ref="char:EOLhyphen"/>ring of her gizzards, an infirmity which ariſing from her ſpleen into her mouth, infects her tongue like a canker, making her call her husbands rogues and raſcals, and many other ſcurvy ords: It makes her likewiſe oftentimes to ſtrive for her bree<g ref="char:EOLhyphen"/>ches and break her husbands pates with her ladles and skimmers, and is indeed an Epedemical diſeaſe, and raigning in moſt of her ſhee-Couzens: The cure hereof, though <hi>Gallen</hi> hath not ſet down, nor her <hi>Hypocrates,</hi> nor <hi>Averroes,</hi> nor <hi>Avicen</hi> her Cou<g ref="char:EOLhyphen"/>zens, yet ſhall her Couzen <hi>Jenkin</hi> in priefe declare the remedy for that diſeaſe.</p>
+            <p>Firſt when her begins to be in her fits, her husbands ſhall per<g ref="char:EOLhyphen"/>ceive it by the bending of her browes, then let him apply to her a plaiſter of good ords, and if that will not ſerve her turnes, let him take her good haſle cudgell or her ropes end, and baſt her as her Welſh-men do her old goates to make them eat ten<g ref="char:EOLhyphen"/>der, for ſo her Couzen King <hi>Tavid</hi> did, as you may find it ſome where written; And <hi>Tavid</hi> went in and did ſo lace his wife; therefore her and aule her Country-men may therefore baſt their wives by authority and priviledg, and liberty of the ſub<g ref="char:EOLhyphen"/>ject: for her do find it by experience and by her reading, that
+<pb n="2" facs="tcp:114017:3"/>the more her do beat her Walnut-trees, and Spaniel and Camo<g ref="char:EOLhyphen"/>mil bank be baſted or trodden, the more fruit they wil bear, and the women love their husbands the better, and this will cure her preſently, with twice or thrice applyed to her ſides. There is another remedy which <hi>Jenkin</hi> her ſelfe hath often uſed with her Wives, which is to take her as her fit begins, and lay her upon her back and tickle her Tuquoques, and it ſhall cure her in an inſtant; <hi>Probatum eſt.</hi>
+            </p>
+            <p>The quavering of the kidneys in her ſhe-cozens, is when her is full of her luſts and concupiſcences, and her much longings and deſires to make her husbands Cuckolds. In <hi>Spain</hi> her Cou<g ref="char:EOLhyphen"/>zens the <hi>Spaniards</hi> have excellent remedies for theſe diſeaſes in her Wives, for as ſoon as her perceives and caknowes that her Wives are bent to be ſick of the quavering of her kidneys, her lets her bloud in her breſt or in the bellies with her ſword or her taggers, marry <hi>Jenkin</hi> would wiſh her Couzens to uſe this eaſier remedies and medicines, which is when her omens fleſh riſes and would go to mans, let her husbands give her two ounces of cood inſtructions, with three ounces of the oyle of man diſtil'd through his own lembeck, a vomit and potion made of opium and her turneps, than let her have a dyet for a month of her welſh leeks without bread or ſalt, and it ſhall recover her per<g ref="char:EOLhyphen"/>fectly; <hi>Probatum eſt.</hi>
+            </p>
+            <p>For her barren Couzens, her ſhall by her preſervatives and her Medicines make her as pregnant as her heart can wiſh, and have every year a ſhild if there be no defect in her capacities of her podies: Firſt let her eat the brains of a He goat mixt with the marrow of a Stoate, or Pole-cat (her may caknow him by her ſinell and her ſavours) with the fleſh of her monkies for a Fort<g ref="char:EOLhyphen"/>nights, and drink every morning a pottle of her beſt welſh Me<g ref="char:EOLhyphen"/>theglins. Then let her get her into a cood ſoft peds, and have every night for the ſpace of a month, a luſty young man to her ped-fellow to ſalute her podies and recreate her kidneyes, and if her pe not with ſhild <hi>Jenkin</hi> will forfeit her reputations in Phyſgigs. This medicine is moſt predominant over her Couzens in her Cities, and may ſerve indeed for omens of all Nations un<g ref="char:EOLhyphen"/>der forty years of age, whereas divers of her Couzens have had
+<pb n="3" facs="tcp:114017:3"/>the wambling trot in her pellies, or the diſlocation in the ma<g ref="char:EOLhyphen"/>trix, which is occaſioned by much ploods and itches in her po<g ref="char:EOLhyphen"/>dies, whereby oftentimes her comes to looſe her Maiden-heads and her Virginities, which her fooliſh Phyſitians in times paſt knew not how to cure. <hi>Jenkin</hi> for the good of her deareſt Cou<g ref="char:EOLhyphen"/>hens hath found out the medicines that will reſtore her to her Virginities, which is, her muſt take a peck of Fern-ſut gathe<g ref="char:EOLhyphen"/>red on Mid-ſummer night, with two ounces of moon-ſhine ta<g ref="char:EOLhyphen"/>ſen out of her river of Dee at noon-dayes, ſixe eyes of the <hi>Phæ<g ref="char:EOLhyphen"/>nix,</hi> ſeven eyes of <hi>Argus,</hi> with her Couzen <hi>Mercury</hi> pull'd out of her head, the brains of the bird of Paradiſe which ſung to her Granſieur <hi>Adam,</hi> the fleſh of the buttock of one of her Welſh goats which her Couzen <hi>Noahs</hi> had in her Arks, the juyce of the apple which her Grand-mother <hi>Eve</hi> eat at the inticement of the Serpent, the head of the great huge fiſh of two hundred yard long that was taken in eighty eights with a great ruffe like a Spaniard, above London bridg, a bottle full of the water of the Inchanters wells which was kept by the great Dragons that was overcome by her Couzens <hi>Palmerius,</hi> and Saint <hi>Tavids,</hi> two yards of freeze which was in her Prophet <hi>Merlins</hi> old coates, five onions of <hi>Jenkins</hi> own planting and ſix pound of leeks, take all theſe and ſtamp them upon the ſtone where <hi>Jacob</hi> ſlept, and ſtrain them through one of the clouds which hang over her welſh Mountains, and then take all theſe her ingredients and lap her up in a yard of Butter-flies-skins, and lay her warme to her couſens bottome of her bellies, and ſo let her renew the plaiſter or cataplaſme, do you ſee every night a freſh, and it ſhall make her couzens as ſound and firme in her Maiden-heads and her Virginities as ever her was in her lifes, and her may be cer<g ref="char:EOLhyphen"/>tain that <hi>Jenkin</hi> hath made his explorations and experiments upon this medicine, and find it to be very available; <hi>Probatum eſt.</hi>
+            </p>
+            <p>Her alſo doth undertake to cure all her Agues and Feavers that are in her ſtates and her Kingdoms ariſing from her facti<g ref="char:EOLhyphen"/>ous and Malignant humours which indeed and inſooth none can cure without phlebotomy or bloud-letting; but her cou<g ref="char:EOLhyphen"/>ſen <hi>Ienkins,</hi> which muſt be done in this manner. Firſt her State or her Kingdome muſt take fifty or threeſcore heads of her
+<pb n="4" facs="tcp:114017:4"/>Malignants and poyle them to a jell<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y in a hundred Cavaliers ploods, then take the fat of ſix Jeſuites that were hang'd drawn and quarter'd at Tiburn, do you mark, and with the brawn of a hundred of Prelats buttocks ſtewed in Metheglins, and let all theſe ingredients be laid on the ſtomack of her ſtate or her King<g ref="char:EOLhyphen"/>dome, and it ſhall expell her Agues and her Feavers, or other<g ref="char:EOLhyphen"/>wiſe. take two ounces and ſix pound of the long haire of your Cavaliers which in welſh her calls Ruſſetings, and make therewith a Cat-a-pulſive with the blood of ſome Anabaptiſts, and applyed as aforeſaid, and your ſick ſtate ſhall recover im<g ref="char:EOLhyphen"/>mediately without the help of her Doctors and her Phyſitians, as <hi>Jenkin</hi> has made divers rimes her experiences and probations upon all the Kingdomes of <hi>Aſia</hi> the leſſe; <hi>Probatum eſt.</hi>
+            </p>
+            <p>Next whereas her has been informed that divers of her Cou<g ref="char:EOLhyphen"/>zens have loſt her leggs and her armes, and many of her have booke her necks at <hi>Kenton</hi> battailes, her has ſtudied a medicine that ſhall recover her perfectly, let her come to her Couzen <hi>Jen<g ref="char:EOLhyphen"/>kins</hi> lodgings at the ſign of the Welſh goate in Garlick-lane with her broken leggs, arms, or necks, and her will make her as ſound as ever her was in her lifes; <hi>Probatum eſt.</hi>
+            </p>
+            <p>Next her does profeſſe to give her Church a vomit and a purge that ſhall make her free from all her pains in the ſtomack, her muſt firſt take a long ſtick of <hi>Stibium,</hi> which in Welſh is called the Gallowes, and hang thereon three hundred Browniſts, five hundred Anabaptiſts, and as many of all ſorts of her Separa<g ref="char:EOLhyphen"/>tiſts, and then let her dry in the ſun fourteen weeks, and then beat her to powder, and mixe her with a great deale of oyle ex<g ref="char:EOLhyphen"/>tracted from her Cavaliers slocks, and let this be given to her Church through the great Organ pipe that was in her Church of <hi>Pauls,</hi> and it ſhall make her Church vomit and purge up all her errors and her hereſies, and put her into as good ſtates and conditions of her health, as her was in the daies of her Apoſtles; eſpecially when her Couzen <hi>Jenkin</hi> gives her glyſter to make her evacuate her Piſhops and Prelats backward, which muſt be com<g ref="char:EOLhyphen"/>pounded on this manners. Firſt, her muſt take two handfuls of herbe a grace, of which there is enough in her Welſh Mountains, and mingle it with the ſurrups of two and twenty Miters, boyl'd in the jayce of as many Rochets and Surplices, and let it
+<pb n="5" facs="tcp:114017:4"/>be put in at the fundament or porch of the Church, and is ſhall give her thirty or forty of her ſtoole which ſhall clear her po<g ref="char:EOLhyphen"/>dies of all her Piſhops and her Prelates, and ſend herto the Ti<g ref="char:EOLhyphen"/>vell with a vengeance.</p>
+            <p>Laſtly with her dyet and her purge, her cordiall and her vo<g ref="char:EOLhyphen"/>mit, her will cure all her Couzens that are Cuckolds of horns, and make her browes as ſmooth as the backs of her hands, which if any of all her <hi>London</hi> Phyſitian can performe, <hi>Jenkin</hi> will ne<g ref="char:EOLhyphen"/>ver ſet up her pils nor her preſcriptions, her will alſo with con<g ref="char:EOLhyphen"/>fection of toſted ſheeſe, metheglin, green leeks and onions, un<g ref="char:EOLhyphen"/>dertake to kill her a hundred a dity, and with her Goates milk mixt with the buds of her welſh gunſhot, which in Engliſh is called <hi>Elderne,</hi> reſtore her again to her lifes in a minutes ſpace, and all this to be performed by <hi>Jenkin ap Morgan</hi> Doctor of <hi>Phyſgig,</hi> and ſtudier of all the arts of medicine as her teſtifies under her hands, and hopes that all her Couzens that are ſick of the ſaid diſeaſes will buy her Couzens book of medicines and repaire to her for cure, and advice.</p>
+         </div>
+         <div type="will">
+            <head>
+               <hi>The laſt VVill and Teſtament of</hi> Tho<g ref="char:EOLhyphen"/>mas up Shinkin, up Morgan, up Howell, up Ralph, up Shon, up Taffie, <hi>Shentileman of Wales,</hi> which her was write and publiſh fifteen tayes after her teath.</head>
+            <p>IN te name of te great got, <hi>Amen,</hi> to morrow after te feaſt of Saint <hi>Taffie</hi> in te fouerteen, fifteen, twenty yeare of te create Cadwallin te pig, ſonne and heire te creat <hi>Prate</hi> te creat <hi>Prittain,</hi> I <hi>Thomas up Shinken, up Shon, up Taffie</hi> peing ſick of pody, put in mind and memory, was here make her laſt Will and Teſtament, firſt her was make her loving wife <hi>Madge</hi> her ſole executioner. <hi>Item,</hi> her was kive her eldeſt ſonne <hi>Shon up
+<pb n="6" facs="tcp:114017:5"/>Thomas up Shinkin, up Morgan, up Howell, up William, up <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ph, up Shon, up Taffie,</hi> her creat ſtone houſe which was ſtand in te portom of te creat Mountain in te full face of te ſun.</p>
+            <list>
+               <item>
+                  <hi>Item,</hi> her was kive her loving wife <hi>Madges</hi> her ſole exten<g ref="char:EOLhyphen"/>tioner, her other houſe called her moyſt ſhennet with te privy houſe and awle te appurtenances teteunto.</item>
+               <item>
+                  <hi>Item,</hi> her was kive her eldeſt ſervant <hi>Shames, up G<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Morgan, up Lewis, up Shones, up Shon,</hi> pecaus her was porne a Shentileman, and was ſtay her ſervant a treat while, fower yard of Friſe to make her mourning ſhaket.</item>
+               <item>
+                  <hi>Item,</hi> Her was kive her Taughter <hi>Shennie</hi> fower yard of Pull<g ref="char:EOLhyphen"/>ruſh to make her cold ring.</item>
+               <item>
+                  <hi>Item,</hi> Her was kive ten ſhillings for ſhunkets; Imprimis, fower creat ſheezes cut out in Cauſebobby, fower puſhels of creen Leeks roaſted, and fower puſhels of Onions, to make awle her couzens and kinsfolks cry.</item>
+               <item>
+                  <hi>Item,</hi> Her was kive ten ſhillings to te creat Clark of creat Saint <hi>Maries,</hi> tat her cood ring te creat Pell, to kive warning tat her was coming, tat Saint <hi>Peter</hi> might open her cate, and let her in.</item>
+               <item>
+                  <hi>Item,</hi> Her toe intreat her loving wife <hi>Madge,</hi> her ſole exe<g ref="char:EOLhyphen"/>cetioner to pe honeſt, and pay awle her tepts, her cannot chuſe put pay.</item>
+               <item>
+                  <hi>Item,</hi> Her teſire her cretitors to take a pound of criefe for a pound of monies, for faith if her was long liv'd, her was peen honeſt to every pody.</item>
+               <item>
+                  <hi>Item,</hi> tus her teſire cot to receive her ſoule, who was her Maker and Redeemer, and her was teſire her pody ſhod pe pu<g ref="char:EOLhyphen"/>ried in te ſhurch of Saint <hi>Mary,</hi> and alſo I teſire to ſee ſhentile<g ref="char:EOLhyphen"/>men tat are my Neighbors preſent to ſet their hands here as wit<g ref="char:EOLhyphen"/>leſſe tat I tie in te true Proteſtantie Faith.</item>
+            </list>
+            <closer>
+               <signed>
+                  <hi>Giles up Morgan, up Harry up Rafe, Simon up Thomas up Mor<g ref="char:EOLhyphen"/>dant, up Taffie, Rafe up Shinkin, up Morgan up Taffie,</hi> her Cou<g ref="char:EOLhyphen"/>zens.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
